@@ -1,0 +1,10 @@
+<resources>
+	<string name="app_name">User Reports</string>
+	<string name="permission_required">Permission Required</string>
+	<string name="permission_location_message">You are denied the location permission forcefully, Allow the location permission to fetch the weather report via permission settings.</string>
+	<string name="menu_search">Search</string>
+	<string name="fetching">Fetching ...</string>
+	<string name="updated_at">Updated at\n</string>
+	<string name="no_internet_connection">No internet connection!</string>
+	<string name="retry">RETRY</string>
+</resources>

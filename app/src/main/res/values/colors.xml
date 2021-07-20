@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="purple_200">#BC0606</color>
+	<color name="purple_500">#BC0606</color>
+	<color name="purple_700">#BC0606</color>
+	<color name="teal_200">#BC0606</color>
+	<color name="teal_700">#BC0606</color>
+	<color name="black">#FF000000</color>
+	<color name="white">#FFFFFFFF</color>
+	<color name="bg_color">#F5F1F1</color>
+	<color name="dark_grey">#151918</color>
+	<color name="grey">#939292</color>
+	<color name="weather_background_color">#242343</color>
+</resources>
